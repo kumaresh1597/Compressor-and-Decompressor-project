@@ -11,7 +11,7 @@ Java,Java swing,Data Structure and Algorithims,VS code
 
 # Result
 Sample 1 - Text file of size 579 kb is compressed to 13 kb and again decompressd to 579 kb.
-sample 2 - JPG file of size 71 kb is compressed to 51 kb and again decompressed to 71 kb.
+Sample 2 - JPG file of size 71 kb is compressed to 51 kb and again decompressed to 71 kb.
 ![result](https://user-images.githubusercontent.com/115056892/226520356-a0ddc645-a59b-4239-b325-22abedc6dc13.jpg)
 
 
